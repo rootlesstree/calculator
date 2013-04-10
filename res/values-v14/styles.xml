@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar" />
+    <style name="LowerButton" parent="@android:style/Widget.Button">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+</resources>

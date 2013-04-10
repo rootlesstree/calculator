@@ -1,0 +1,24 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+ 
+    <style name="AppTheme" parent="android:Theme.Light" />
+    <style name="LowButton" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/f_buttons</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    
+    <style name="RedButton" parent="@android:style/Widget.Button">
+         <item name="android:background">@drawable/red_buttons</item>
+         <item name="android:textColor">#ffffff</item>         
+    </style>
+    
+    <style name="UpperButton" parent="@android:style/Widget.Button">
+         <item name="android:background">@drawable/upperbutton</item>        
+    </style>
+    
+    <style name="MediumButton" parent="@android:style/Widget.Button">
+         <item name="android:background">@drawable/medium_button</item>
+         <item name="android:textColor">#ffffff</item>         
+    </style>
+ 	
+</resources>
